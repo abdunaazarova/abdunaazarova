@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋
+Welcome to My GitHub Profile! 
 
-<!--
-**abdunaazarova/abdunaazarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Gulnora, an aspiring data scientist passionate about leveraging data to solve real-world problems. Currently, I am building my expertise in machine learning, data analytics, and AI technologies.
 
-Here are some ideas to get you started:
+Career Goals
+My ultimate goal is to contribute to the development of AI-powered tools that drive efficiency and impact across various sectors, including IT and business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL (SQLite)
+- Data Visualization (Matplotlib, Seaborn)
+
+
+Let's Connect:
+- LinkedIn [linkedin.com/in/gulnora-abdunazarova]
+
